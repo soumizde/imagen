@@ -36,7 +36,7 @@ This project uses several cutting-edge technologies:
 1. Clone the project repository:
 
 ```
-
+https://github.com/soumizde/imagen.git
 ```
 
 This command will create a local copy of the project on your machine.
