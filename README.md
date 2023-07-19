@@ -36,7 +36,7 @@ This project uses several cutting-edge technologies:
 1. Clone the project repository:
 
 ```
-git clone https://github.com/amanjaiman1/Product_3D.git
+
 ```
 
 This command will create a local copy of the project on your machine.
