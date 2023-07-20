@@ -67,3 +67,9 @@ This command will start the client application. It typically runs on port 5173, 
 npm start
 ```
 
+# Get in Touch
+I had an amazing time creating this project and if this helps you out, let us know. We would love to hear from you. If you run into an issue, I would want to help you out too. 
+
+Reach out to me directly: soumizde@gmail.com
+
+
