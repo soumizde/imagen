@@ -12,7 +12,7 @@ This application boasts an array of impressive features to enhance your t-shirt 
 
 **Helping Prompts**: Randomized Surprise Me prompts provided to help you get through a creative block
 
-**Share Option**: Share your creations with the Community and live your art stay on forever
+**Share Option**: Share your creations with the Community and let your art live on forever
 
 **Download Option**: Download the masterpiece you create and use it locally
 
