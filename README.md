@@ -20,9 +20,9 @@ This application boasts an array of impressive features to enhance your t-shirt 
 
 This project uses several cutting-edge technologies:
 
-**MongoDB**: 
+**MongoDB**: A versatile NoSQL database for seamless storage, retrieval, and management of data in JSON-like documents, empowering efficient and scalable application development.
 
-**Express.js**: 
+**Express.js**: A fast, minimalist, and flexible Node.js web application framework, ideal for building robust APIs and web applications with ease and efficiency.
 
 **React.js**: A powerful JavaScript library renowned for its efficiency and flexibility in building interactive user interfaces.React provides a robust foundation for developing a dynamic and responsive user experience.
 
