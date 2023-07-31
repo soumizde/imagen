@@ -1,3 +1,5 @@
+![Asset 3](https://github.com/soumizde/imagen/assets/104732379/25fa0821-ae5e-4656-874f-cae22c8793a7)
+
 # IMAGEN - AI Image Generating Website
 
 Welcome to the Imagen! 
