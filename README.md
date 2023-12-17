@@ -4,7 +4,7 @@
 
 ### **Welcome to the Imagen!**
 
-Unleash your imagination with Imagen. It is an innovative OpenAI API - powered AI image generating website that harnesses the cutting-edge capabilities of artificial intelligence to create stunning and captivating images adn then share it to the community. ImaGen offers a new and exciting way to explore the endless possibilities of digital art. As lomg as you keep imagining - the images will keep generating!
+Unleash your imagination with Imagen. It is an innovative OpenAI API - powered AI image generating website that harnesses the cutting-edge capabilities of artificial intelligence to create stunning and captivating images and then share it to the community. ImaGen offers a new and exciting way to explore the endless possibilities of digital art. As lomg as you keep imagining - the images will keep generating!
 
 **Watch Demo Video Here:** [Imagen Demo](https://www.loom.com/share/18d9fc0e092043668c73ba601436bad6?sid=2009c7e2-7720-4dc0-8f1e-d79d6972dce3)
 
